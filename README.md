@@ -1,10 +1,11 @@
-## Morse Code Decoder
+## Enumerables
 
 <a name="readme-top"></a>
+
 <div align="center">
     <img src="code.png" alt="logo" width="700"  height="auto" />
   <br/>
-  <h3><b>Morse Code Decoder</b></h3>
+  <h3><b>Enumerables</b></h3>
 </div>
 # 📗 Table of Contents
 
@@ -54,7 +55,6 @@ The program can convert a string of Morse code into English. It understands Mors
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -93,6 +93,7 @@ To run the project, navigate to the project directory and execute the following 
 To run tests, run the following command:
 
 Run the following command
+
 ```sh
 rubocop
 ```
@@ -105,9 +106,7 @@ Not available at the moment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 👥 Authors <a name="authors"></a>
-
 
 👤 **Muneeb UR Rehman**
 
@@ -120,7 +119,6 @@ Not available at the moment.
 - GitHub: [@haftamu](https://github.com/haftamudesta)
 - Twitter: [@DestaHaftamu](https://twitter.com/DestaHftamu?t=NQ4ovkdWbsfsjh62NFEXFg&s=09)
 - LinkedIn: [Haftamu Desta](https://www.linkedin.com/in/haftamu-desta-795791a1/)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
