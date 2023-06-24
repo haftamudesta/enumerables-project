@@ -1,59 +1,56 @@
-## Enumerables
+<!-- TABLE OF CONTENTS -->
 
-<a name="readme-top"></a>
-
-<div align="center">
-    <img src="code.png" alt="logo" width="700"  height="auto" />
-  <br/>
-  <h3><b>Enumerables</b></h3>
-</div>
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 Morse Code Decoder Morse Code Ruby](#-morse-code-decoder-morse-code-ruby)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [📝 License ](#-license-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-# 📖 Morse Code Decoder <a name="about-project">Morse Code Ruby</a>
+<!-- PROJECT DESCRIPTION -->
 
-**Morse Code Decoder** is a Morse Code decoder written in Ruby. Its primary goal is to decode Morse Code messages into English text.
+# 📖 [ Enumerables Enumerables] <a name="about-project"></a>
 
-Description:
-
-During a seaside vacation, numerous old bottles containing parchments with Morse code messages were discovered. This led to the creation of this Ruby program, which is designed to automate the process of Morse code decryption.
-
-The program can convert a string of Morse code into English. It understands Morse code representations for all alphabets (both lower case and upper case), and numbers from 0-9.
+> The MyList class and MyEnumerable module provide a custom implementation of enumerable methods in Ruby. These components offer a practical demonstration of how classes, modules, and enumerable functionality can be utilized in Ruby programming.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-<summary>Backend</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">Ruby</a></li>
-  </ul>
-</details>
+-Ruby: A dynamic, object-oriented programming language known for its simplicity and elegance. Ruby is used as the core language for implementing the MyList class and 
+-Object-Oriented Programming (OOP): The project leverages the principles of OOP to create the MyList class, encapsulating data and behavior into objects with methods and attributes.
+-Enumerable Methods: The project demonstrates the implementation of custom enumerable methods, including all?, any?, and filter, which emulate the behavior of their counterparts in Ruby's built-in Enumerable module.
+
+
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Converts a single Morse code character into its corresponding English character.**
-- **Decodes an entire Morse code word into its corresponding English word..**
-- **Decodes an entire Morse code message into its corresponding English sentence.**
+> Describe between 1-2 key features of the application.
+
+- **[Database Creation and Table Schema: Create a relational database and define a table to store information.]**
+- **[Addin foreign keys for the many-to-may relationships]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -69,7 +66,7 @@ In order to run this project you need:
 
 ```sh
   cd my-folder
-  git https://github.com/haftamudesta/decode_morse.git
+  git clone https://github.com/haftamudesta/enumerables-project.git
 ```
 
 ### Install
@@ -85,7 +82,7 @@ bundle install
 To run the project, navigate to the project directory and execute the following command:
 
 ```sh
-  ruby decode_morse_code.rb
+  ruby my_list.rb
 ```
 
 ### Run tests
@@ -93,9 +90,8 @@ To run the project, navigate to the project directory and execute the following 
 To run tests, run the following command:
 
 Run the following command
-
 ```sh
-rubocop
+rubocop .
 ```
 
 ### Deployment
@@ -105,8 +101,11 @@ You can deploy this project using:
 Not available at the moment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
 
 👤 **Muneeb UR Rehman**
 
@@ -122,17 +121,57 @@ Not available at the moment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **We will add a GUI.**
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[Map: Implement the map method for transforming each element of the collection.]**
+- [ ] **[Reduce: Introduce the reduce method for aggregating the elements of the collection into a single value.]**
+- [ ] **[Sort: Add the sort method for sorting the elements of the collection based on a defined criterion.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](../../issues/).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+**please show your support to improve my skills .this will help me to work hard Give a ⭐️ if you like this project!**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank to everyone who watch my code and like it.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+- **Did you create this project from scratch?**
+
+  - Yes, and for that reason I learned a lot.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
