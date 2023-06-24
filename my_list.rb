@@ -18,12 +18,12 @@ end
 list = MyList.new(1, 2, 3, 4)
 
 # Test #all?
-list.all? { |e| e < 5 }
-list.all? { |e| e > 5 }
+p list.all? { |e| e < 5 }
+p list.all? { |e| e > 5 }
 
 # Test #any?
-list.any? { |e| e == 2 }
-list.any? { |e| e == 5 }
+p list.any? { |e| e == 2 }
+p list.any? { |e| e == 5 }
 
 # Test #filter
 p list.filter(&:even?)
